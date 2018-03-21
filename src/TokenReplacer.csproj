@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Version>1.0.0-alpha1</Version>
+    <Authors>Anirudh Khanna</Authors>
+    <Company />
+    <Description>A Microsoft.Extensions.Configuration based Custom Configuration Provider which can resolve tokens within a configuration.</Description>
+    <RepositoryUrl>https://github.com/a-khanna/TokenReplacer</RepositoryUrl>
+    <PackageTags>Configuration Token Replace Microsoft Provider Extension</PackageTags>
+    <PackageReleaseNotes />
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="2.0.1" />
+  </ItemGroup>
+
+</Project>
