@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/a-khanna/TokenReplacer.svg?branch=master)](https://travis-ci.org/a-khanna/TokenReplacer)
 
-A Microsoft.Extensions.Configuration based Configuration Token Replacer, which scans all previous ConfigurationProviders and replaces the tokens accordingly.
+#### A Microsoft.Extensions.Configuration based Configuration Token Replacer, which scans all previous ConfigurationProviders and replaces the tokens accordingly.
 ---
 ### Basic Example
 1. Add tokens to your configuration. 
